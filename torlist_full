@@ -1,4 +1,14 @@
---2025-05-24 12:01:19--  https://www.dan.me.uk/torlist/?full
+--2025-05-25 12:01:17--  https://www.dan.me.uk/torlist/?full
 Resolving www.dan.me.uk (www.dan.me.uk)... 192.146.137.20, 2001:67c:26b4:2:21e:bff:fec7:87a
-Connecting to www.dan.me.uk (www.dan.me.uk)|192.146.137.20|:443... failed: Connection timed out.
-Connecting to www.dan.me.uk (www.dan.me.uk)|2001:67c:26b4:2:21e:bff:fec7:87a|:443... failed: Network is unreachable.
+Connecting to www.dan.me.uk (www.dan.me.uk)|192.146.137.20|:443... connected.
+HTTP request sent, awaiting response... 200 Ok
+Length: unspecified [text/plain]
+Saving to: ‘index.html?full.56’
+
+     0K .......... .......... .......... .......... ..........  895K
+    50K .......... .......... .......... .......... ..........  640K
+   100K .......... .......... .......... .......... .......... 1.83M
+   150K .......... .......... .......... ..........            82.2M=0.2s
+
+2025-05-25 12:01:30 (1.15 MB/s) - ‘index.html?full.56’ saved [195167]
+
