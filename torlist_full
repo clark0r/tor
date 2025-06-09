@@ -1,14 +1,14 @@
---2025-06-08 12:01:23--  https://www.dan.me.uk/torlist/?full
+--2025-06-09 12:01:22--  https://www.dan.me.uk/torlist/?full
 Resolving www.dan.me.uk (www.dan.me.uk)... 192.146.137.20, 2001:67c:26b4:2:21e:bff:fec7:87a
 Connecting to www.dan.me.uk (www.dan.me.uk)|192.146.137.20|:443... connected.
 HTTP request sent, awaiting response... 200 Ok
 Length: unspecified [text/plain]
-Saving to: ‘index.html?full.67’
+Saving to: ‘index.html?full.68’
 
      0K .......... .......... .......... .......... ..........  861K
-    50K .......... .......... .......... .......... ..........  276K
-   100K .......... .......... .......... .......... ..........  948K
-   150K .......... .......... .......... .......... .....       598K=0.4s
+    50K .......... .......... .......... .......... ..........  312K
+   100K .......... .......... .......... .......... ..........  609K
+   150K .......... .......... .......... .......... ...         822K=0.4s
 
-2025-06-08 12:01:38 (531 KB/s) - ‘index.html?full.67’ saved [200229]
+2025-06-09 12:01:34 (547 KB/s) - ‘index.html?full.68’ saved [197818]
 
