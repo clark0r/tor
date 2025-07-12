@@ -1,11 +1,11 @@
---2025-07-11 12:01:02--  https://www.dan.me.uk/torlist/?exit
+--2025-07-12 12:01:02--  https://www.dan.me.uk/torlist/?exit
 Resolving www.dan.me.uk (www.dan.me.uk)... 192.146.137.20, 2001:67c:26b4:2:21e:bff:fec7:87a
 Connecting to www.dan.me.uk (www.dan.me.uk)|192.146.137.20|:443... connected.
 HTTP request sent, awaiting response... 200 Ok
 Length: unspecified [text/plain]
-Saving to: ‘index.html?exit.86’
+Saving to: ‘index.html?exit.87’
 
-     0K .......... .......... .......... .......... .......     906K=0.05s
+     0K .......... .......... .......... .......... ......      928K=0.05s
 
-2025-07-11 12:01:17 (906 KB/s) - ‘index.html?exit.86’ saved [48694]
+2025-07-12 12:01:20 (928 KB/s) - ‘index.html?exit.87’ saved [48072]
 
