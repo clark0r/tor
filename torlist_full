@@ -1,14 +1,5 @@
---2025-08-10 12:01:17--  https://www.dan.me.uk/torlist/?full
+--2025-08-11 12:01:02--  https://www.dan.me.uk/torlist/?full
 Resolving www.dan.me.uk (www.dan.me.uk)... 192.146.137.20, 2001:67c:26b4:2:21e:bff:fec7:87a
 Connecting to www.dan.me.uk (www.dan.me.uk)|192.146.137.20|:443... connected.
-HTTP request sent, awaiting response... 200 Ok
-Length: unspecified [text/plain]
-Saving to: ‘index.html?full.118’
-
-     0K .......... .......... .......... .......... ..........  944K
-    50K .......... .......... .......... .......... .......... 1.90M
-   100K .......... .......... .......... .......... .......... 1.85M
-   150K .......... .......... .......... .......... ....       7.71M=0.1s
-
-2025-08-10 12:01:22 (1.72 MB/s) - ‘index.html?full.118’ saved [198819]
-
+GnuTLS: Error in the pull function.
+Unable to establish SSL connection.
